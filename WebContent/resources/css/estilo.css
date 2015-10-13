@@ -1,0 +1,132 @@
+
+
+body{
+
+  background-attachment: fixed;
+  background-image: url("../img/background.jpg");
+}
+
+.logo{
+	background-image: url("../img/titulo.png");
+}
+
+.bloco1 {background-color: #eee}
+
+.altura1 {padding-bottom: 80px;
+		padding-top: 50px;
+
+	}
+
+nav {
+		color: black;
+
+}
+
+.menu-cor  {color: #228B22;}
+
+.fotoFolhas{
+background-image: url(fotos/fotoFolhas.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.fotoPeixes{
+background-image: url(fotos/fotoPeixes.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+
+
+.fotoPote{
+background-image: url(fotos/fotoPote.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.slideTamanho {
+
+	width: 100% !important;
+	display:table;
+	margin: 0 auto;
+}
+
+
+.portlet-header {
+	margin: auto;
+  background: #F0F0F0 url(../images/portlet-header-bg.png) repeat-x 0 0;
+  color: #444;
+  text-align: center;
+  padding: 15px 0 15px 0;
+  width: 99%;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid #CCC;
+  -webkit-border-top-left-radius: 8px;
+  -webkit-border-top-right-radius: 8px;
+  -moz-border-radius-topleft: 8px;
+  -moz-border-radius-topright: 8px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.portlet-content {
+
+  padding: 20px 15px 35px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-bottom: 35px;
+  padding-left: 15px;
+  position: relative;
+  width: 99%;
+  height: 99%;
+  margin: auto;
+  background-color: ;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.row1 {
+  position: relative;
+  width: 573px;
+  height: 340px;
+}
+ 
+ .xbreak {
+    clear: both;
+}
+
+.videos {
+    padding: 0px;
+    margin: 0px;
+}
+
+.tabelaTamanho {
+
+  height: 216px;
+}
+
+#footerr {
+  width: 100%;
+  border-top: 1px dotted #AAA;
+              text-align: right;
+  clear: both;
+              margin: 0 auto;
+  margin-top: 1em;
+  margin-bottom: 10px;
+}
+
+
+
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

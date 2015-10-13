@@ -1,0 +1,27 @@
+
+
+/* está ok, daqui pra baixo*/
+
+.tabelaTamanho2 {
+
+	height: 210px !important;
+	width: 100% !important;
+}
+
+.dimensoesLinkImagem {
+	height: 200px !important;
+	width: 220px !important;
+
+}
+
+.larguraPreco {
+	width: 127px !important;
+}
+
+.buttonAgendar{
+	margin-left : px;
+}
+
+.AlturatdDescricao {
+	height: 160px !important;
+}
