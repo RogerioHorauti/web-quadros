@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionFactory {
-	public static final String url = "jdbc:mysql://localhost/quadros";
-	public static final String user = "root";
-	public static final String password = "";
+	private static final String url = "jdbc:mysql://localhost/quadros";
+	private static final String user = "root";
+	private static final String password = "";
 	 
 	public Connection getConnection() {
 		
