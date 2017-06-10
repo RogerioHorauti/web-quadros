@@ -12,6 +12,6 @@ The server use was the Tomat.
 
 The structure of the project is thus:
 
-![web frame structure](src/main/img/wq-structure.png)
+![web frame structure](img/wq-structure.png)
 
 ![web frame index](https://github.com/RogerioHorauti/web-quadros/blob/master/img/wq-index.png)
