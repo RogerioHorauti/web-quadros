@@ -8,4 +8,4 @@ The application was developed in lenguage Java with the IDE Eclipse, using an ar
 
 To import the application to eclipse you have two options, clone the repository or download file, how the application has developed in Maven, after downlod, you can import -> Existing Maven Projects.
 
-![web quadros](https://github.com/RogerioHorauti/web-quadros/blob/master/web-quadros.png)
+![web quadros](https://github.com/RogerioHorauti/web-quadros/blob/master/img/wq-index.png)
