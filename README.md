@@ -23,6 +23,8 @@ Package | Description
 [br.com.quadros.interceptor](src/br/com/quadros/interceptor)| Filter
 [br.com.quadros.jdbc](src/br/com/quadros/jdbc)| Data persistence
 [br.com.quadros.tarefas](src/br/com/quadros/tarefas)| Controller
+[/WebContent/WEB-INF/views](WebContent/WEB-INF/views)| View
+[/WebContent/resources](WebContent/WEB-INF/views)| CSS and JavaScript
 
 The home page.
 
