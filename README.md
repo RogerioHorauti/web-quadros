@@ -4,7 +4,7 @@
 
 ### Development
 ***
-The application was developed in lenguage Java with the IDE Eclipse, using an architecture MVC with Spring MVC, persistence JDBC and in css e JavaScript the Bootstrap. 
+The application was developed in lenguage Java with the IDE Eclipse, using an architecture MVC with Spring MVC, persistence JDBC and in css e JavaScript, the Bootstrap. 
 
 The database is the MySQL.
 
@@ -26,4 +26,4 @@ Package | Description
 
 ### The database
 ***
-The database is the MySQL and is in the file [Dump](database/Dump20170216.sql).
+The database, MySQL, that is in the file [Dump](database/Dump20170216.sql).
