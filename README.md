@@ -26,9 +26,6 @@ Package | Description
 [/WebContent/WEB-INF/views](WebContent/WEB-INF/views)| View
 [/WebContent/resources](WebContent/WEB-INF/views)| CSS and JavaScript
 
-The home page.
-
-![web frame index](img/wq-index.png)
-
-
+### The database
+***
 The database MySQL, is in the file [Dump](database/Dump20170216.sql).
