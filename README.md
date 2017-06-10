@@ -24,8 +24,8 @@ Package | Description
 [br.com.quadros.jdbc](src/br/com/quadros/jdbc)| Data persistence
 [br.com.quadros.tarefas](src/br/com/quadros/tarefas)| Controller
 [/WebContent/WEB-INF/views](WebContent/WEB-INF/views)| View
-[/WebContent/resources](WebContent/WEB-INF/views)| CSS and JavaScript
+[/WebContent/resources](WebContent/resources)| CSS and JavaScript
 
 ### The database
 ***
-The database MySQL, is in the file [Dump](database/Dump20170216.sql).
+The database is MySQL and is in the file [Dump](database/Dump20170216.sql).
