@@ -14,4 +14,6 @@ The structure of the project is thus:
 
 ![web frame structure](img/wq-structure.png)
 
+The home page.
+
 ![web frame index](img/wq-index.png)
