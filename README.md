@@ -18,8 +18,9 @@ To import the application to eclipse you have two options, clone the repository 
 ***
 ![web frame structure](img/wq-structure.png)
 
+Package | Description
 ------------|------------
-br.com.quadros.interceptor| Filter
+br.com.quadros.jdbc| Data persistence
 
 The home page.
 
