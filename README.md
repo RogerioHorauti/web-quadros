@@ -10,7 +10,7 @@ To import the application to eclipse you have two options, clone the repository 
 
 The server use was the Tomat.
 
-The structure of the project is thus:
+### The structure of the project is thus:
 
 ![web frame structure](img/wq-structure.png)
 
