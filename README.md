@@ -8,4 +8,10 @@ The application was developed in lenguage Java with the IDE Eclipse, using an ar
 
 To import the application to eclipse you have two options, clone the repository or download file, how the application has developed in Maven, after downlod, you can import -> Existing Maven Projects.
 
-![web quadros](https://github.com/RogerioHorauti/web-quadros/blob/master/img/wq-index.png)
+The server use was the Tomat.
+
+The structure of the project is thus:
+
+![web frame structure](main/img/wq-structure.png)
+
+![web frame index](https://github.com/RogerioHorauti/web-quadros/blob/master/img/wq-index.png)
