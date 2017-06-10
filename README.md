@@ -18,7 +18,7 @@ To import the application to eclipse you have two options, clone the repository 
 ***
 ![web frame structure](img/wq-structure.png)
 
-
+------------|------------
 
 The home page.
 
