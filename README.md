@@ -12,7 +12,7 @@ Tomcat as web server.
 
 ### Importing the project
 ***
-To import the application to eclipse you have two options:
+To import the application to eclipse follow the steps below:
 
 1° - Download the file, 
 
@@ -40,8 +40,29 @@ Package | Description
 
 ![](img/wq-structure.png)
 
-### Initial project setup
+### Initial project setup with Spring MVC
 ***
+We need to add all the necessary dependencies, for this we will use the pom.xml file:
+
+```xml
+<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>spring-webmvc</artifactId>
+		<version>4.1.6.RELEASE</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>jstl</groupId>
+		<artifactId>jstl</artifactId>
+		<version>1.2</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>5.1.35</version>
+	</dependency>
+```
 
 ### The database
 ***
