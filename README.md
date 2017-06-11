@@ -38,6 +38,8 @@ Package | Description
 [/WebContent/WEB-INF/views](WebContent/WEB-INF/views)| View
 [/WebContent/resources](WebContent/resources)| CSS and JavaScript(Bootstrap)
 
+![](img/wq-structure.png)
+
 ### Initial project setup
 ***
 
