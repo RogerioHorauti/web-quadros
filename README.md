@@ -65,7 +65,7 @@ First we need to add all the necessary dependencies, for this we will use the [p
 ```
 
 To be able to respond to URLs in web projects, you need at least one filter or a configured servlet.
-The servlet responsible for handling all incoming requests to the Spring MVC is the DispatcherServlet, we need it to get everything working. The traditional way is to do the configuration through the web.xml file, The file looks like this:
+The servlet responsible for handling all incoming requests to the Spring MVC is the DispatcherServlet, we need it to get everything working. The traditional way is to do the configuration through the [web.xml](WebContent/WEB-INF/web.xml) file, The file looks like this:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
