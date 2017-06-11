@@ -36,6 +36,9 @@ Package | Description
 [/WebContent/WEB-INF/views](WebContent/WEB-INF/views)| View
 [/WebContent/resources](WebContent/resources)| CSS and JavaScript
 
+### Initial project setup
+***
+
 ### The database
 ***
 The database, MySQL, that is in the file [Dump](database/Dump20170216.sql).
