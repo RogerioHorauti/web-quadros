@@ -6,7 +6,7 @@
 ***
 The application was developed in lenguage Java with the Eclipse IDE, using an architecture MVC with Spring MVC, persistence JDBC and in css e JavaScript, the Bootstrap. 
 
-MySQL as database.
+MySQL as [database](README.md#the-database).
 
 Tomcat as web server.
 
