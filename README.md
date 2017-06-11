@@ -4,7 +4,7 @@
 
 ### Development
 ***
-The application was developed in lenguage Java with the IDE Eclipse, using an architecture MVC with Spring MVC, persistence JDBC and in css e JavaScript, the Bootstrap. 
+The application was developed in lenguage Java with the Eclipse IDE, using an architecture MVC with Spring MVC, persistence JDBC and in css e JavaScript, the Bootstrap. 
 
 MySQL as database.
 
@@ -14,7 +14,7 @@ Tomcat as web server.
 ***
 To import the application to eclipse you have two options:
 
-1° - Download file, how the application has developed in Maven, after downlod, you can import -> Existing Maven Projects.
+1° - Download the file, unpack, move to the workspace folder of Eclipse. How the application has developed in Maven let's import existing Maven Projects, in the Eclipse IDE, click the menu file -> import, in the window that open choose the git option -> ![](img/projects-from-git.png)
 
 ![](img/download-zip.png)
 
