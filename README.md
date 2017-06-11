@@ -10,9 +10,12 @@ MySQL as database.
 
 Tomcat as web server.
 
-### Download
+### Importing the project
 ***
-To import the application to eclipse you have two options, clone the repository or download file, how the application has developed in Maven, after downlod, you can import -> Existing Maven Projects.
+To import the application to eclipse you have two options:
+1° - clone the repository
+
+2° - download file, how the application has developed in Maven, after downlod, you can import -> Existing Maven Projects.
 
 ### The structure of the project is thus:
 ***
