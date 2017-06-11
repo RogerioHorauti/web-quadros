@@ -28,6 +28,8 @@ To import the application to eclipse you have two options:
 
 ### The structure of the project is thus:
 ***
+Click on the links to be redirected to the respective layers.
+
 Package | Description
 ------------|------------
 [br.com.quadros.interceptor](src/br/com/quadros/interceptor)| Filter
