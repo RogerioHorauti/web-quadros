@@ -6,9 +6,9 @@
 ***
 The application was developed in lenguage Java with the IDE Eclipse, using an architecture MVC with Spring MVC, persistence JDBC and in css e JavaScript, the Bootstrap. 
 
-The database is the MySQL.
+MySQL as database.
 
-The server use was the Tomat.
+Tomat as web server.
 
 ### Download
 ***
