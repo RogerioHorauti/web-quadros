@@ -42,7 +42,7 @@ Package | Description
 
 ### Initial project setup with Spring MVC
 ***
-First we need to add all the necessary dependencies, for this we will use the pom.xml file:
+First we need to add all the necessary dependencies, for this we will use the [pom.xml](pom.xml) file:
 
 ```xml
 	<dependency>
