@@ -41,4 +41,4 @@ Package | Description
 
 ### The database
 ***
-The database, MySQL, that is in the file [Dump](database/Dump20170216.sql).
+The database, MySQL, that is in the file [database/Dump20172016.sql](database/Dump20170216.sql).
