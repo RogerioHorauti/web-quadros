@@ -13,7 +13,10 @@ Tomcat as web server.
 ### Importing the project
 ***
 To import the application to eclipse you have two options:
+
 1° - clone the repository
+
+![](img/clone-or-download.png)
 
 2° - download file, how the application has developed in Maven, after downlod, you can import -> Existing Maven Projects.
 
