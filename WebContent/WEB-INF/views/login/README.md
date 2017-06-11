@@ -7,5 +7,5 @@ http://localhost:8080/web-quadros/formLogin
 User | Password | User level
 ------------|------------|------------
 rogerio | rogerio | user
- | | admin
+ |  | admin
  breno | breno | admin
