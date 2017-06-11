@@ -8,7 +8,7 @@ The application was developed in lenguage Java with the IDE Eclipse, using an ar
 
 MySQL as database.
 
-Tomat as web server.
+Tomcat as web server.
 
 ### Download
 ***
