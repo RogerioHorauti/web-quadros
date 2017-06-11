@@ -18,15 +18,13 @@ To import the application to eclipse you have two options:
 
 ![](img/download-zip.png)
 
-unpack, move to the workspace folder of Eclipse. How the application has developed in Maven let's import existing Maven Projects, in the Eclipse IDE, click the menu file -> import, in the window that open choose the git option -> ![](img/existing-maven-project.png) -> next
+2° unpack and move to the workspace folder of Eclipse. 
+
+3° How the application has developed in Maven let's import existing Maven Projects, in the Eclipse IDE, click the menu file -> import, in the window that open choose the git option -> ![](img/existing-maven-project.png) -> next
 
 ![](img/finish-import.png)
 
-Click finish.
-
-2° - Clone the repository - 
-
-![](img/clone-or-download.png)
+4° Click finish.
 
 ### The structure of the project is thus:
 ***
