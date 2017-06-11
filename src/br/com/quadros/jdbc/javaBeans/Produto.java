@@ -1,12 +1,8 @@
 package br.com.quadros.jdbc.javaBeans;
 
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Size;
-
 public class Produto {
 	
 	private Long idProduto;
-	@NotNull @Size(min=1)
 	private String descricao;
 	private double valor;
 	private int qtd;

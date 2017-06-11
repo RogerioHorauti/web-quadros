@@ -1,14 +1,9 @@
 package br.com.quadros.jdbc.javaBeans;
 
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Size;
-
 public class Agendamento {
 	
 	private Long idAgendamento;
-	@NotNull @Size(min=1)
 	private String data;
-	@NotNull @Size(min=1)
 	private String hora;
 	private String status;
 	private String obs;

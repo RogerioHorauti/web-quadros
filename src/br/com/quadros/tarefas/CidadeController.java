@@ -1,7 +1,5 @@
 package br.com.quadros.tarefas;
 
-import javax.validation.Valid;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -24,7 +22,7 @@ public class CidadeController {
 		return "cidade/form-cidade";
 	}
 	@RequestMapping("adicionaCidade")
-	public String adiciona(@Valid Cidade cidade, BindingResult result)
+	public String adiciona(Cidade cidade, BindingResult result)
 	{
 		if(result.hasFieldErrors("nome") || result.hasFieldErrors("uf")){
 			return "cidade/form-cidade";

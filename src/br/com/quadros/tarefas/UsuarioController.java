@@ -1,7 +1,5 @@
 package br.com.quadros.tarefas;
 
-import javax.validation.Valid;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -26,7 +24,7 @@ public class UsuarioController {
 	}
 	
 	@RequestMapping("/adicionaUsuario")
-	public String adiciona(@Valid Usuario usuario)
+	public String adiciona(Usuario usuario)
 	{
 		dao.inserirUsuario(usuario);
 		return "redirect:listaUsuario";
@@ -45,13 +43,6 @@ public class UsuarioController {
 		dao.removerUsuario(usuario);
 		return "redirect:listaUsuario";
 	}
-	
-	/*@RequestMapping("/mostraUsuario")
-	public String mostra(Long idUsuario, Model model)
-	{
-		model.addAttribute("usuarios", dao.buscaPorId(idUsuario));
-		return "usuario/mostra-usuario";
-	}*/
 	
 	@RequestMapping("/alteraUsuario")
 	public String altera(Usuario usuario)

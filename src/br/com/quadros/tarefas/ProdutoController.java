@@ -1,7 +1,5 @@
 package br.com.quadros.tarefas;
 
-import javax.validation.Valid;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -23,7 +21,7 @@ public class ProdutoController {
 	}
 	
 	@RequestMapping("/adicionaProduto")
-	public String adiciona(@Valid Produto produto)
+	public String adiciona(Produto produto)
 	{
 		dao.inserirProduto(produto);
 		return "redirect:listaProduto";

@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConnectionFactory {
 	private static final String url = "jdbc:mysql://localhost/quadros";
 	private static final String user = "root";
-	private static final String password = "";
+	private static final String password = "root";
 	 
 	public Connection getConnection() {
 		

@@ -1,28 +1,19 @@
 package br.com.quadros.jdbc.javaBeans;
 
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Size;
-
 public class Usuario {
 	
 	private Long idUsuario;
 	private String perfil;
-	@NotNull @Size(min=1)
 	private String nome;
-	@NotNull @Size(min=1)
 	private String cpf;
 	private String rg;
 	private String dataNasc;
 	private String endereco;
 	private String bairro;
-	@NotNull @Size(min=1)
 	private String telefone;
 	private String dataCadastro;
-	@NotNull @Size(min=1)
 	private String email;
-	@NotNull @Size(min=1)
 	private String login;
-	@NotNull @Size(min=1)
 	private String senha;
 	private String dataUltimoAgendamento;
 	private Long cidades_idCidade;

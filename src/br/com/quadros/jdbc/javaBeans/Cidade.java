@@ -1,14 +1,9 @@
 package br.com.quadros.jdbc.javaBeans;
 
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Size;
-
 public class Cidade {
 	
 	private Long idCidade;
-	@NotNull @Size(min=1) // validação, não nulo, minimo um caractere
 	private String nome;
-	@NotNull @Size(min=1)
 	private String uf;
 	
 	public Long getIdCidade() {
