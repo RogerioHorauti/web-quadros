@@ -34,7 +34,7 @@ Package | Description
 [br.com.quadros.jdbc](src/br/com/quadros/jdbc)| Data persistence
 [br.com.quadros.tarefas](src/br/com/quadros/tarefas)| Controller
 [/WebContent/WEB-INF/views](WebContent/WEB-INF/views)| View
-[/WebContent/resources](WebContent/resources)| CSS and JavaScript
+[/WebContent/resources](WebContent/resources)| CSS and JavaScript(Bootstrap)
 
 ### Initial project setup
 ***
